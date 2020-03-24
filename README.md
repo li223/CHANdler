@@ -1,3 +1,6 @@
+# Archived
+This fork is now archived. Please use the [Original Repo](https://github.com/naamloos/CHANdler) for new updates and issues.
+
 # CHANdler
 CHANdler is image board software with an ASP.NET Core MVC
 
